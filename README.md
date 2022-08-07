@@ -300,26 +300,12 @@ if(warna2){
 
       title: '' + teksatasoke,
 
-      text: '' + teksakhiroke,
-
+      teks: '' + teksakhiroke,
+kami
     });
-
-    showDiv();
-
-}
-
-}
-
-}
-
-async function popup(){
-
-	await swals.fire({
-
-      title: '><',
-
-      imageUrl: 'https://i.postimg.cc/QMryKNTR/uwu.gif', imageWidth: 300, imageHeight: 300,
-
+kami
+    l.cc/QMryKNTR/uwu.gif ', imageWidth: 300, imageHeight: 300,
+kami
     });
 
 }
@@ -329,5 +315,5 @@ async function popup(){
 </body>
 
 </html>
-
+kami
 kami
